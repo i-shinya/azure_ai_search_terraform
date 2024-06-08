@@ -1,0 +1,2 @@
+# azure_ai_search_terraform
+Azure AI SearchをTerraformで構築するサンプル
